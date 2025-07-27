@@ -15,3 +15,7 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 - Interactive student modules
 - AI-enhanced lesson plans
 - Reflections on tech + teaching in KSA
+## Explore
+
+- [Modules](modules/)
+- [Resources](resources/)
