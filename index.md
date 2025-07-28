@@ -19,3 +19,5 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 
 - [Modules](modules/)
 - [Resources](resources/)
+- [About Me](about.md)
+
