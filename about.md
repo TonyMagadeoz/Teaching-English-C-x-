@@ -43,5 +43,9 @@ For me, teaching English is no longer about simply mastering a language — it�
 Whether you're an educator, learner, researcher, or explorer of language in the digital age — thank you for visiting. I hope you'll find something here that speaks to your own path of growth.
 
 — José Antonio Magaña, M.A. TESOL
+---
+
+[← Back to Home](index.md)
+
 
 
