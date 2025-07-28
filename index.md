@@ -21,4 +21,6 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 - [Resources](resources/)
 - [About Me](about.md)
 - [Educator Blog](./_posts/educators/)
+- [Submit a Blog Post](submit.md)
+
 
