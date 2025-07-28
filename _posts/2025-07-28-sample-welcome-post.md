@@ -3,6 +3,7 @@ layout: post
 title: Welcome to the Educator Blog
 date: 2025-07-28
 author: Jose Antonio Magana
+tags: [educator]
 ---
 
 Welcome to the **Educator Blog** — a space for teachers navigating the exciting, complex journey of integrating technology and AI into English teaching.
