@@ -6,7 +6,7 @@ title: About
 
 Hello, and welcome. My name is **Jose Antonio Magana**, and I’m a professional educator, language specialist, and lifelong learner with over ten years of experience teaching English across multiple cultural and institutional contexts.
 
-My academic foundation includes a **Master of Arts in TESOL** from West Chester University (GPA 3.96) and a **Bachelor’s degree in Anthropology** from Arizona State University. Together, these fields have given me both the technical knowledge and the cultural insight needed to support learners from a wide range of backgrounds.
+My academic foundation includes a **Master of Arts in TESOL** from West Chester University and a **Bachelor’s degree in Anthropology** from Arizona State University. Together, these fields have given me both the technical knowledge and the cultural insight needed to support learners from a wide range of backgrounds.
 
 Over the past decade, I’ve worked in **K–12 schools, universities, adult learning centers, and refugee-focused programs** — in the U.S., Thailand, and Saudi Arabia. I've taught courses in civic-based ESL, academic writing, IELTS prep, intercultural communication, and English for specific purposes. I’ve also served as a curriculum designer, lead instructor, and intercultural coordinator in various educational settings.
 
@@ -42,4 +42,6 @@ For me, teaching English is no longer about simply mastering a language — it�
 
 Whether you're an educator, learner, researcher, or explorer of language in the digital age — thank you for visiting. I hope you'll find something here that speaks to your own path of growth.
 
-— **Jose**
+— José Antonio Magaña, M.A. TESOL
+
+
