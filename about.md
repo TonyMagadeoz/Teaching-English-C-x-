@@ -27,6 +27,8 @@ This website is a **living experiment** — a space for teaching, sharing, and t
 
 One of the themes I return to is **Cₓ (Consciousness Expression)** — a phrase I encountered through **Stephen Wolfram**, whose work in computational science inspired me to think about how identity, awareness, and expression can be seen as functions of the systems and inputs around us.
 
+Whereas earlier decades framed consciousness in language learning through concepts like **noticing**, **metacognition**, and **awareness-raising**, today’s learners express evolving consciousness **in and through digital environments** — through **multimodal identity**, **hybrid language use**, and **critical engagement with AI tools**.
+
 > *Note: The term **Cₓ (Consciousness Expression)** is inspired by a concept introduced by Stephen Wolfram — C(x) — which explores how consciousness may emerge or vary as a function of input or structure. Here, I apply it metaphorically to the evolving expression of language, identity, and culture in teaching.*
 
 For me, teaching English is no longer about simply mastering a language — it’s about guiding students in navigating the interplay of **culture, technology, awareness, and expression** in a rapidly changing world.
