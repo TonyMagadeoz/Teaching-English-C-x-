@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Welcome to the Educator Blog
 date: 2025-07-28
 author: Jose Antonio Magana
