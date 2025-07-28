@@ -11,7 +11,7 @@ All posts are moderated before publication. Click a title below to read more.
 
 ---
 
-{% assign posts = site.posts | where_exp: "post", "post.path contains '_posts/educators/'" %}
+{% assign posts = site.posts | where_exp: "post", "post.tags contains 'educator'" %}
 <ul>
   {% for post in posts %}
     <li>
