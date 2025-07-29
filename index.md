@@ -20,7 +20,13 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 - [Modules](modules/)
 - [Resources](resources/)
 - [About Me](about.md)
+## Educator Blog  
+Read reflections from teachers around the world working with AI and English learning.
+
+👉 [Read the Adaptive Pedagogy Statement](/Teaching-English-C-x-/adaptive-pedagogy/)
+
+📬 [Submit a Blog Post](https://forms.gle/oCCeh2VMVVtu4X5J9)
 - [Educator Blog](educator-blog.md)
-- [Submit a Blog Post](submit.md)
+
 
 
