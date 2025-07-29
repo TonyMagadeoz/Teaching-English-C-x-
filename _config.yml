@@ -2,4 +2,5 @@ title: Teaching English C(x)
 description: A dynamic hub for teaching English with consciousness
 theme: jekyll-theme-midnight
 markdown: kramdown
-# Trigger rebuild
+baseurl: "/Teaching-English-C-x-"
+
