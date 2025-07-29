@@ -85,4 +85,5 @@ Oxford, R. L. (2017). *Teaching and Researching Language Learning Strategies*. R
 Sweller, J. (1994). *Cognitive Load Theory, Learning Difficulty, and Instructional Design*. Learning and Instruction, 4(4), 295–312.
 
 ---
+Add adaptive pedagogy synthesis paper to site
 
