@@ -32,7 +32,7 @@ This becomes especially powerful in Saudi classrooms, where high-context cultura
 
 AI is not just a tool for automation — it's a new language environment.
 
-While I haven’t yet formally implemented it in class as a method of instruction, I’ve studied how prompt engineering can help learners develop critical thinking and metacognitive strategies. Teaching students to break complex ideas into prompts is a 21st-century skill. It mirrors how we teach writing: chunking, scoping, refining intent.
+While I haven’t yet formally implemented it in class, I’ve studied how prompt engineering can help learners develop critical thinking and metacognitive strategies. Teaching students to break complex ideas into prompts is a 21st-century skill. It mirrors how we teach writing: chunking, scoping, refining intent.
 
 For teachers, AI tools also enable the rapid development of customized, research-aligned materials. It’s our responsibility to ensure these materials are meaningful, culturally grounded, and cognitively appropriate for learners across the spectrum.
 
@@ -84,6 +84,5 @@ Oxford, R. L. (2017). *Teaching and Researching Language Learning Strategies*. R
 
 Sweller, J. (1994). *Cognitive Load Theory, Learning Difficulty, and Instructional Design*. Learning and Instruction, 4(4), 295–312.
 
----
 Add adaptive pedagogy synthesis paper to site
 
