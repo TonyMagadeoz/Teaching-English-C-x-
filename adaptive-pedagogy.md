@@ -63,7 +63,7 @@ If you’re an educator or researcher working in TESOL, SLA, EFL, or adjacent fi
 **What does adaptive pedagogy look like in your classroom?**  
 How are you integrating AI, responding to neurodivergence, or rethinking how we manage learning?
 
-📝 [Submit your reflections or blog post here](https://forms.gle/Aobxb7T7AzCmCm479)
+📝 [Submit your reflections or blog post here](https://docs.google.com/forms/d/e/1FAIpQLSdU05wDy1l6EdJxO99UQ4jCvYn35QcMWsGZKb62c8OkskCNig/viewform?usp=header)
 Selected submissions may be featured in the Educator Blog section of this site.
 
 Together, we evolve.
