@@ -1,7 +1,9 @@
 ---
 title: Resources
 layout: page
+permalink: /resources/
 ---
+
 
 
 # 📚 Resources Hub
