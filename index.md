@@ -15,18 +15,23 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 - Interactive student modules
 - AI-enhanced lesson plans
 - Reflections on tech + teaching in KSA
+  
+- Interactive student modules  
+- AI-enhanced lesson plans  
+- Reflections on tech + teaching in KSA  
+
 ## Explore
 
-- [Modules](modules/)
-- [Resources](resources/)
-- [About Me](about.md)
+- [Modules](modules/)  
+- [Resources](resources/)  
+- [About Me](about.md)  
+
 ## Educator Blog  
+
 Read reflections from teachers around the world working with AI and English learning.
 
-👉 [Read the Adaptive Pedagogy Statement](/Teaching-English-C-x-/adaptive-pedagogy/)
-
-📬 [Submit a Blog Post](https://docs.google.com/forms/d/e/1FAIpQLSdU05wDy1l6EdJxO99UQ4jCvYn35QcMWsGZKb62c8OkskCNig/viewform?usp=header)
-- [Educator Blog](educator-blog.md)
-
+👉 [Read the Adaptive Pedagogy Statement](/Teaching-English-C-x-/adaptive-pedagogy/)  
+📬 [Submit a Blog Post](https://docs.google.com/forms/d/e/1FAIpQLSdU05wDy1l6EdJxO99UQ4jCvYn35QcMWsGZKb62c8OkskCNig/viewform?usp=header)  
+📰 [Educator Blog](educator-blog.md)
 
 
