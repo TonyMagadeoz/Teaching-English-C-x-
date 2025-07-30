@@ -25,7 +25,7 @@ Read reflections from teachers around the world working with AI and English lear
 
 👉 [Read the Adaptive Pedagogy Statement](/Teaching-English-C-x-/adaptive-pedagogy/)
 
-📬 [Submit a Blog Post](https://forms.gle/oCCeh2VMVVtu4X5J9)
+📬 [Submit a Blog Post](https://forms.gle/Aobxb7T7AzCmCm479)
 - [Educator Blog](educator-blog.md)
 
 
