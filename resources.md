@@ -1,6 +1,8 @@
 ---
 title: Resources
+layout: page
 ---
+
 
 # 📚 Resources Hub
 
