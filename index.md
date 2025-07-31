@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Welcome!!!
 ---
+
 
 # Teaching English C(x)
 
