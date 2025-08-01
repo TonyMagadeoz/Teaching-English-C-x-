@@ -27,7 +27,7 @@ This is a living resource hub and portfolio space to help teach, learn, and grow
 - [Modules](modules/)  
 - [Resources](resources/)  
 - [About Me](about.md)  
-- [AI Research Bot](/ai-bot/)
+- [AI Research Bot](/Teaching-English-C-x-/ai-bot/)
 
 ## Educator Blog  
 
