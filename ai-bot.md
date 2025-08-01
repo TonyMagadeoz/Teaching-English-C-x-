@@ -5,11 +5,7 @@ permalink: /ai-bot/
 ---
 
 <h2>AI Research Bot</h2>
-<p>Ask questions about AI ethics, pedagogy, or learning assistants below.</p>
+<p>Click below to open the bot in a new tab.</p>
 
-<iframe 
-  src="https://huggingface.co/spaces/TonyMagadeoz/ai-research-bot" 
-  width="100%" 
-  height="600px" 
-  frameborder="0">
-</iframe>
+<p><a href="https://huggingface.co/spaces/TonyMagadeoz/ai-research-bot" target="_blank">Open AI Research Bot</a></p>
+
