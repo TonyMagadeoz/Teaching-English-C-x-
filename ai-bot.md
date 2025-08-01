@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Research Bot
-permalink: /Teaching-English-C-x-/ai-bot/
+permalink: /ai-bot/
 ---
 
 <h2>AI Research Bot</h2>
