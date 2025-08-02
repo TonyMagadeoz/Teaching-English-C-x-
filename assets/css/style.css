@@ -1,0 +1,30 @@
+body {
+  padding: 2rem;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  font-size: 1.1rem;
+  color: #2a2a2a;
+  background-color: #fdfdfd;
+}
+
+h1, h2, h3, h4 {
+  margin-top: 2rem;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.main-content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
