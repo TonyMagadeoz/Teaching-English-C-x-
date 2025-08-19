@@ -5,11 +5,11 @@ permalink: /adaptive-pedagogy/
 ---
 
 # Adaptive Pedagogy in the AI Era  
-### Neurodivergence, AI Tools, and the Evolving EFL Classroom in KSA
+### AI Tools, and the Evolving English Classroom
 
 In a time of rapid digital change and increased global classroom diversity, educators must adapt — not just their methods, but their *mindsets*. This piece brings together years of practice, research-informed strategies, and real classroom reflection in Saudi Arabia to offer a living framework for **adaptive pedagogy** in the modern EFL/TESOL landscape.
 
-## Neurodivergence: Designing for Real Cognitive Differences
+## Designing for Real Cognitive Differences
 
 Student-centered approaches only matter when they are truly centered on *students* — not just curriculum frameworks. Many learners in today’s classrooms, especially those affected by neurodivergence, require a type of attention that adapts to how they actually process and respond to their environment.
 
